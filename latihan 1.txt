@@ -1,0 +1,7 @@
+jalur belajar mengenai front end
+1.html
+2.css dasar
+3.css box model,grid dan flex
+4.Java script
+5.git
+6.mysql
